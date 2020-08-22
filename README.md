@@ -1,5 +1,5 @@
 # mustKnowResources
-## This repository consists of a list of resources which a student must know about.<br/>
+## This repository consists of a list of resources and opportunities which a student must know about.<br/>
 __The aim of this repository is to make people aware about the availiale resources and motivate them to dream big and work hard in order to achieve those goals.__<br/>
 _Feel free to add more amazing resources which could benefit the student community_.
 
