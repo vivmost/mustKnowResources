@@ -1,5 +1,6 @@
 # mustKnowResources
-_This repository consists of a list of resources which a student must know about_.
+__This repository consists of a list of resources which a student must know about__.<br/>
+_Feel free to add more amazing resources_.
 
 #### This is a list of some amazing repos :-
 1. [A-Z resources for students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
