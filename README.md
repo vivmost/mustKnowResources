@@ -11,3 +11,4 @@ _Feel free to add more amazing resources which could benefit the student communi
 5. [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 6. [awesome lists](https://github.com/sindresorhus/awesome)
 7. [Research-Internships-for-Undergraduates](https://github.com/himahuja/Research-Internships-for-Undergraduates)
+8. [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
