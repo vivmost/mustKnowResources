@@ -12,3 +12,4 @@ _Feel free to add more amazing resources which could benefit the student communi
 6. [Awesome lists](https://github.com/sindresorhus/awesome)
 7. [Research-Internships-for-Undergraduates](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 8. [Design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+9. [project-based-learning](https://github.com/tuvtran/project-based-learning)
