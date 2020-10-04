@@ -14,7 +14,7 @@ _Feel free to add more amazing resources which could benefit the student communi
 - [Design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Project-based-learning](https://github.com/tuvtran/project-based-learning)
 - [Developer Roadmaps](https://roadmap.sh/roadmaps)
-- [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) (Huge list)
+- [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 - [Web development toolkit](https://codingheroes.io/resources/)
 - [Frontend Developer Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Master Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
