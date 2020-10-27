@@ -10,18 +10,22 @@ _Feel free to add more amazing resources which could benefit the student communi
 - [Research-Internships-for-Undergraduates](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 - [Design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Project-based-learning](https://github.com/tuvtran/project-based-learning)
-- [Developer Roadmaps](https://roadmap.sh/roadmaps)
+- [Developer Roadmaps - Frontend, Backend, React, etc.](https://roadmap.sh/roadmaps)
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
+- [CS50 - Havard](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
 
-#### Table of Contents for Events , Programs , Competitions:
+#### For Developer Events , Programs , Competitions:
 - [Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs)
+- [HacktoberFest](https://hacktoberfest.digitalocean.com/)
 
 
 #### Table of Contents for Web Development:
 - [Frontend Developer Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Web development toolkit](https://codingheroes.io/resources/)
-
+- [FreeCodeCamp](https://freecodecamp.com)
+- [CSS Grid](https://cssgrid.io/)
+- [CSS Flexbox](https://flexbox.io/)
 
 #### Table of Contents for Android:
 - [Android-Cheat-sheet](https://github.com/anitaa1990/Android-Cheat-sheet)
