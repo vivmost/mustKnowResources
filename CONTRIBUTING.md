@@ -1,8 +1,8 @@
-
 # Contribute to Student Developer Resources
 
 Thank you for your interest in contributing to Student Developer Resources, contributions are **welcome**. <br>
-This guide helps make contributing to this repository simple and efficient for everyone.
+This guide helps make contributing to this repository simple and efficient for everyone. <br>
+_Feel free to add more amazing resources which could benefit the student community_.
 
 
 ## Idea
