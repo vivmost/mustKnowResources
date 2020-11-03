@@ -1,7 +1,6 @@
 # Student Developer Resources
 ## This repository consists of a list of resources and opportunities which a student must know about.<br/>
 __The aim of this repository is to make people aware about the available resources and motivate them to dream big and work hard in order to achieve those goals.__<br/>
-_Feel free to add more amazing resources which could benefit the student community_.
 
 #### Universal Table of Contents:
 - [A-Z resources for students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
@@ -17,7 +16,7 @@ _Feel free to add more amazing resources which could benefit the student communi
 
 #### Table of Contents for Web Development:
 - [Free Code Camp](https://www.freecodecamp.org/)
-- [The Odin Bootcamp](https://www.theodinproject.com/)
+- [The Odin Project](https://www.theodinproject.com/)
 - [Web development toolkit](https://codingheroes.io/resources/)
 - [Roadmap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
 
