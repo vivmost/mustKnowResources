@@ -12,19 +12,30 @@ _Feel free to add more amazing resources which could benefit the student communi
 - [Project-based-learning](https://github.com/tuvtran/project-based-learning)
 - [Developer Roadmaps](https://roadmap.sh/roadmaps)
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
-
-
-#### Table of Contents for Events , Programs , Competitions:
 - [Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs)
 
 
 #### Table of Contents for Web Development:
-- [Frontend Developer Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
+- [Free Code Camp](https://www.freecodecamp.org/)
+- [The Odin Bootcamp](https://www.theodinproject.com/)
 - [Web development toolkit](https://codingheroes.io/resources/)
+- [Roadmap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
 
 
 #### Table of Contents for Android:
 - [Android-Cheat-sheet](https://github.com/anitaa1990/Android-Cheat-sheet)
+- [Udacity](https://www.udacity.com/)
+
+
+#### Table of Contents for Hackathons:
+- [MLH](https://mlh.io/)
+- [Devfolio](https://devfolio.co/hackathons)
+- [dare2compete](https://dare2compete.com/e/hackathons/latest)
+- [devpost](https://devpost.com/)
+
+
+#### Table of Contents for Competitive Coding:
+- [a2oj ladders](https://a2oj.com/)
 
 
 #### Useful Blogs and Books:
