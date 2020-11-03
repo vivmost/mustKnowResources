@@ -12,6 +12,7 @@ __The aim of this repository is to make people aware about the available resourc
 - [Developer Roadmaps](https://roadmap.sh/roadmaps)
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 - [Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs)
+- [learnXinYminutes](https://learnxinyminutes.com/)
 
 
 #### Table of Contents for Web Development:
@@ -33,10 +34,19 @@ __The aim of this repository is to make people aware about the available resourc
 - [devpost](https://devpost.com/)
 
 
-#### Table of Contents for Competitive Coding:
+#### Table of Contents for DSA and Competitive Coding:
 - [a2oj ladders](https://a2oj.com/)
+- [love babbar 450 Questions](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+- [strivers 180 Questions](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
+- [PepCoding](https://www.pepcoding.com/resources/)
 
 
 #### Useful Blogs and Books:
 - [Master Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
 - [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+
+
+
+#### Table of Contents for Youtube Channels:
+- [MIT OpenCourseWare](https://www.youtube.com/user/MIT)
+- [Nptel DataStructures](https://www.youtube.com/watch?v=zWg7U0OEAoE&list=PLBF3763AF2E1C572F)
