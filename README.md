@@ -41,12 +41,12 @@ __The aim of this repository is to make people aware about the available resourc
 - [PepCoding](https://www.pepcoding.com/resources/)
 
 
-#### Useful Blogs and Books:
-- [Master Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
-- [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
-
-
-
 #### Table of Contents for Youtube Channels:
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT)
 - [Nptel DataStructures](https://www.youtube.com/watch?v=zWg7U0OEAoE&list=PLBF3763AF2E1C572F)
+
+
+
+#### Useful Blogs and Books:
+- [Master Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
+- [Tech-Interview-Cheat-Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
