@@ -19,7 +19,9 @@ __The aim of this repository is to make people aware about the available resourc
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [The Odin Project](https://www.theodinproject.com/)
 - [Web development toolkit](https://codingheroes.io/resources/)
+- [mark down cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Roadmap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
+-[Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 
 #### Table of Contents for Android:
