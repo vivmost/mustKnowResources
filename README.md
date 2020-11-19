@@ -13,6 +13,7 @@ __The aim of this repository is to make people aware about the available resourc
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources)
 - [Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs)
 - [learnXinYminutes](https://learnxinyminutes.com/)
+- [Best-Resources-for-a-Programmer](https://github.com/Devang-25/Best-Resources-for-a-Programmer)
 
 
 #### Table of Contents for Web Development:
