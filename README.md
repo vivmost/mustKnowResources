@@ -1,6 +1,6 @@
 # Student Developer Resources
 ## This repository consists of a list of resources and opportunities which a cs student must know about.<br/>
-__The aim of this repository is to make people aware about the available resources and motivate them to dream big and work hard in order to achieve those goals.__<br/>
+__The aim of this repository is to make people aware about the available resources.__<br/>
 
 #### Universal Table of Contents:
 - [A-Z resources for students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
